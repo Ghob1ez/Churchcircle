@@ -1,0 +1,5 @@
+{
+  "name": "Room Booking System",
+  "description": "A comprehensive room booking management system with member requests, admin approval, and conflict detection.",
+  "requestFramePermissions": []
+}
